@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btnMusica01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gita"
+        android:layout_gravity="center" />
+
+    <Button
+        android:id="@+id/btnMusica02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Meu Amigo Pedro"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btnMusica03"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pagando Brabo"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btnMusica04"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rock das Aranhas"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btnMusica05"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Converse sem Medo"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btnMusica06"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Meu Piano"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btnMusica07"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="O dia que a Terra parou"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btnmusica08"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sociedade Alternativa"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btnMusica09"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tente Outra Vez"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btnMusica10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Judas"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btnMusica11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Maluco Beleza"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btnMusica12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Medo da Chuva"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btnMusica13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Metamorfose Ambulante"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btnMusica14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SOS"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btnMusica15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tu es o MDC"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btnMusica16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Loteria DA Babilonia"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btnMusica17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cowboy fora da Lei"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btnMusica18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rockixe"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btnMusica19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Al Capone"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btnMusica20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="As minas "
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btnMusica21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Eu Nasci "
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btnMusica22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="O Homem"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btnMusica23"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Carimbador Maluco"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btnMusica24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Maça"
+        android:layout_gravity="center"/>
+</LinearLayout>
+</ScrollView>
